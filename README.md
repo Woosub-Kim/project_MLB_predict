@@ -8,13 +8,13 @@ MLB경기결과를 예측하는 프로젝트
 
 # 사용데이터
 ### 투수
-ERA 평균자책점
-WHIP 이닝당 안타+볼넷 허용률
-WAR
+ERA 평균자책점      
+WHIP 이닝당 안타+볼넷 허용률      
+WAR      
 ### 타자
-SLG 장타율
-OBP 출루율
-WAR
+SLG 장타율      
+OBP 출루율      
+WAR      
 
 # 성적
 <img width="" height="" src="https://github.com/Woosub-Kim/project_MLB_predict/blob/master/MLB_result.PNG"> </img>
