@@ -21,3 +21,10 @@ WAR
 
 야구종목의 경우 무승부의 예측이 까다로워 전반적으로 성적이 높게 나오지않는다.       
 Logistic Regression기법으로는 무승부를 예측하는 것이 거의 불가능하다
+
+###### 한국직업전문학교 무재칠시 링크
+https://github.com/Woosub-Kim/Project_KBO_Predict            
+https://github.com/Woosub-Kim/project_MLB_predict                           
+https://github.com/Woosub-Kim/project_NBA_predict                    
+https://github.com/Woosub-Kim/sports_predict_api                  
+https://github.com/namwon94/Project_Baseball                     
