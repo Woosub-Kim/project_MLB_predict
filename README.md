@@ -1,5 +1,5 @@
-# project_MLB_predict 
-## <한국직업전문학교 무재칠시프로젝트>
+# <한국직업전문학교 무재칠시프로젝트>
+#### project_MLB_predict 
 MLB경기결과를 예측하는 프로젝트
 
 ## crwaling source
