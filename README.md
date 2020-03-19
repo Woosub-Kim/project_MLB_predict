@@ -24,8 +24,10 @@ WAR
 Logistic Regression기법으로는 무승부를 예측하는 것이 거의 불가능하다
 
 ###### 한국직업전문학교 무재칠시 링크
-https://github.com/Woosub-Kim/Project_KBO_Predict            
-https://github.com/Woosub-Kim/project_MLB_predict                           
-https://github.com/Woosub-Kim/project_NBA_predict                    
-https://github.com/Woosub-Kim/sports_predict_api                  
-https://github.com/namwon94/Project_Baseball                     
+|설명|링크|
+|----|----|
+|KBO경기 예측| https://github.com/Woosub-Kim/Project_KBO_Predict |            
+|MLB경기 예측| https://github.com/Woosub-Kim/project_MLB_predict |                           
+|NBA경기 예측| https://github.com/Woosub-Kim/project_NBA_predict |                    
+|API| https://github.com/Woosub-Kim/sports_predict_api |                  
+|WEB| https://github.com/namwon94/Project_Baseball |                      
