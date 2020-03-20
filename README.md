@@ -1,4 +1,4 @@
-# <한국직업전문학교 무재칠시프로젝트> with 
+# <한국직업전문학교 무재칠시프로젝트> with <a href='https://github.com/namwon94'>김남원</a>
 #### project_MLB_predict 
 MLB경기결과를 예측하는 프로젝트
 
