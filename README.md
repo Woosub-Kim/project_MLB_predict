@@ -15,7 +15,8 @@ WAR
 ### 타자
 SLG 장타율      
 OBP 출루율      
-WAR      
+WAR     
+가장 가중치가 높은 지표들 위주로 데이터를 선택했다.
 
 # 성적
 <img width="" height="" src="https://github.com/Woosub-Kim/project_MLB_predict/blob/master/MLB_result.PNG"> </img>
